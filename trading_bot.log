@@ -1,0 +1,19 @@
+2025-08-10 20:05:42,580 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:09:16,734 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:10:37,883 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:10:38,049 - BinanceTradingBot - ERROR - Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-08-10 20:14:10,564 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:14:10,755 - BinanceTradingBot - ERROR - Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-08-10 20:29:09,000 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:29:09,409 - BinanceTradingBot - ERROR - API Error 401: Invalid API-key, IP, or permissions for action
+2025-08-10 20:30:17,015 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:30:17,191 - BinanceTradingBot - ERROR - API Error 401: Invalid API-key, IP, or permissions for action
+2025-08-10 20:33:48,937 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:33:49,596 - BinanceTradingBot - ERROR - API Error 401: Invalid API-key, IP, or permissions for action
+2025-08-10 20:35:19,348 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-08-10 20:35:19,510 - BinanceTradingBot - ERROR - API Error 401: Invalid API-key, IP, or permissions for action
+2025-08-11 01:30:41,749 - BinanceFuturesBot - INFO - Bot initialized in TESTNET mode
+2025-08-11 01:30:41,891 - BinanceFuturesBot - ERROR -  Unexpected order error: type object 'Client' has no attribute 'FUTURE_ORDER_TYPE_TRAILING_STOP_MARKET'
+2025-08-11 01:36:04,693 - BinanceFuturesBot - INFO - Bot initialized in TESTNET mode
+2025-08-11 01:36:05,052 - BinanceFuturesBot - INFO - Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1754856365052}
+2025-08-11 01:36:05,259 - BinanceFuturesBot - INFO - Order placed successfully: {'orderId': 5564631621, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ2f9de7c3a5121a561c5595', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1754856365456}
